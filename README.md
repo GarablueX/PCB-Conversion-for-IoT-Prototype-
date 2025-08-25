@@ -9,7 +9,7 @@ The work was done as part of supporting a personal/student project, with the goa
 ## 📂 Repository Structure  
 
 - **/photos/** → Images of the PCB and prototype transition process  
-- **/files/** → PCB design files (schematics, layouts, and outputs)  
+- **/Proteus/** → PCB design files (schematics, layouts, and outputs)  
 
 ---
 
