@@ -47,10 +47,9 @@ See the [`/photos`](./photos) folder for images of the prototype and PCB.
 
 ## 📁 Files  
 
-The [`/files`](./files) folder contains:  
+The [`/Proteus`](./files) folder contains:  
 - PCB schematics  
-- Board layout  
-- Exported Gerber files  
+- Board layout   
 
 ---
 
